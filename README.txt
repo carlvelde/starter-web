@@ -1,6 +1,10 @@
 #Starter Web Project
 
+Simple stuff.
+
 ## Intro
+
+Yes, very simple.
 
 ## Purpose
 
